@@ -44,3 +44,6 @@ Request a refund after the auction has finished
 <br>
 Checks:
 1. Can't request a refund twice per account
+
+## How to verify ? 
+There is a test case written in `tests/auction.ts` file it will be running on `anchor test` command
